@@ -94,7 +94,7 @@ In diatopic terms, there seems to be no discernible areal skewing between allmor
 > Map 2b: t-allomorph of the 3SG _braucht_ by verb class
 
 
-![](../brauchen-Auswertungen\ DGD/brauchen_ 3SG.png)
+![]([https://github.com/uetzgenfatz/brauchen/blob/main/brauchen_%203SG.png))
 > Map 3: Allomorphs of the 3SG _braucht_ in German dialects
 
 ### References

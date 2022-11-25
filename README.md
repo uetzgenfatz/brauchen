@@ -1,8 +1,6 @@
 # Modal properties of _brauchen:_ An analysis of the Zwirner data
 
 **Credits:** I want to thank my student assistant Tanja Milosevic for helping me annotate the data. 
-$(\chi)$
-\( $\chi$)
 
 ### 1. Background
 
@@ -89,7 +87,7 @@ Let us now have a look at the morphological characteristics of the 3SG. Our samp
 | Total           | 76	       | 286           | **362**|
 > Table 4: Proportions of the two allomorphs of the 3SG
 
-[^7]: We used a one-sided hypothesis test, with the alternative hypothesis ($H_1$): proportion $\varnothing$-morph > proportion t-morph.
+[^7]: We used a one-sided hypothesis test, with the alternative hypothesis $(H_1)$: proportion $\varnothing$-morph > proportion t-morph.
 
 In diatopic terms, there seems to be no discernible areal skewing between allmorph type and full verb vs. modal uses of _brauchen_, i.e. there is no layering effect regarding the class convergence of this verb towards the modals (see Maps 2a and 2b). Conflating polysemy (full verb vs. modal) and focusing on the allmorphs alone, we can observe that _t_-forms predominate in the Upper German dialects. However, this difference is not as pronounced as in the AADG-map mentioned in Section 1. We believe that this contrast is at least partially caused by our empirical source. Whereas the AADG is based on elicitation data, the Zwirner corpus comprises continuous speech, making it hard to control for factors like coarticulation or other phonetic/phonological factors applying in this modality.
 

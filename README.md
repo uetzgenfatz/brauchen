@@ -75,7 +75,7 @@ As indicated by Table 3, the simple infinitive is the dominant pattern when it c
 
 Turning to the areal profile of these variant (Map 1), _zu_-less infinitives governed by _brauchen_ are very prominent in Upper German. In the central German dialects, _zu_-marked infinitives predominante by contrast. In Low German, both variants occur side by side with no clear preference pattern. This picture corresponds to the empirical situation documented by the AdA, which is targeted at regional/colloquial varieties instead of base dialects. Importantly, in the northern dialects of our sample, _zu_ is much more prevalent than in the AdA-data.
 
-![](Infinitivrektion.png)
+![](brauchen_Infinitivrektion.png)
 > Map 1: Forms of the infinitive governed by _brauchen_ in German dialects
 
 Let us now have a look at the morphological characteristics of the 3SG. Our sample contained 362 relevant examples; the proportions of the two allomorphs vs. modal and full verb uses are given in Table 4. In its modal uses (i.e. governing an infinitival complement) _t_-less forms are attested at a moderatly higher rate (~ 8%) than the ones exhibiting final _-t_. Full verb uses, by comparison, show a significantly larger rate of _t-_-forms, almost three times. It is obvious that difference in proportions of these allomorphs depending on verb use is highly significant (z = 3.7292, p < 0.0001); the expected probabilities ($$\hat{p}) $$ are 0.3628 for $$\varnothing$$-forms and 0.1406 for _t-_forms.[^7] The areal profile of both allomorphs is depicted in map 2 and 3.

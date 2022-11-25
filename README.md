@@ -2,6 +2,8 @@
 
 **Credits:** I want to thank my student assistant Tanja Milosevic for helping me annotate the data. 
 
+**Metadata for the maps:** The base map underlying Figures 1–3 is redrawn and adapted from Wiesinger’s (1983) original classification of German dialects (Schmidt, Herrgen and Kehrein 2008–).
+
 ### 1. Background
 
 A well-known example for morphological class-convergence is the verb _brauchen_ ‘need’ that is becoming integrated into the paradigm of modals, i.e. preterite-present verbs (see Lenz 1997; Reis 2005 and Maché 2019: 176–220 for a detailed discussion). As with the other verbs of this class,[^1] it can govern a simple infinitive instead of the _zu_-infinitive (1). It also shows a morphologically-triggered loss of the _-t_-affix in the 3SG that seems to be missing with phonotactically similar verbs, as the contrast between (2a) and (2b) demonstrates. 
@@ -120,9 +122,13 @@ Maitz, Péter and Krisztián Tronka (2009): _brauchen_ – Phonologische Aspekte
 
 Reis, Marga (2001): Bilden Modalverben im Deutschen eine syntaktische Klasse?”. In: Reimar Müller and Marga Reis (eds.): In: Modalität und Modalverben im Deutschen: 287–318. (Linguistische Berichte; Sonderheft 9). Hamburg: Buske.
 
-—(2005): „Wer _brauchen_ ohne _zu_ gebraucht…“: Zu systemgerechten „Verstößen“ im Gegenwartsdeutschen. In: Cahier d’Études Germaniques 48(1): 101–114.
+—(2005): “Wer _brauchen_ ohne _zu_ gebraucht…”: Zu systemgerechten “Verstößen” im Gegenwartsdeutschen. In: Cahier d’Études Germaniques 48(1): 101–114.
 
 Schmidt, Jürgen Erich and Joachim Herrgen (2011): Sprachdynamik. Eine Einführung in die moderne Regionalsprachenforschung. (Grundlagen der Germanistik; 49). Berlin: Erich Schmidt Verlag.
+
+Schmidt, Jürgen Erich, Joachim Herrgen and Roland Kehrein (eds.) (2008–): Einteilung der deutschen Dialekte nach Peter Wiesinger. Redrawing of Map 47.4 in Wiesinger (1983). URL: [https://regionalsprache.de](https://regionalsprache.de).
+
+Wiesinger, Peter (1983): Die Einteilung der deutschen Dialekte. In Werner Besch et al. (eds.): Dialektologie: Ein Handbuch zur deutschen und allgemeinen Dialektforschung, Vol. 2: 807–900. (Handbooks of linguistics and communication science; 1). Berlin, New York: De Gruyter. 
 
 Zwirner, Eberhard and Wolfgang Bethge (1958): Erläuterungen zu den Texten. Lautbibliothek der deutschen Mundarten; 1). Göttingen: Vandenhoeck & Ruprecht.
 

@@ -1,4 +1,4 @@
-# Modal properties of _brauchen_: An analysis of the Zwirner data
+## Modal properties of _brauchen_: An analysis of the Zwirner data
 
 **Credits:** I want to thank my student assistant Tanja Milosevic for helping me annotate the data. 
 

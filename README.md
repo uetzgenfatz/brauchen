@@ -64,7 +64,7 @@ We extracted all relevant examples for _brauchen_ in both configurations, yieldi
 
 [^6]: Available via the following URL: [https://www.qgis.org](https://www.qgis.org) (last accessed on 16 June 2022).
 
-As indicated by Table 3, the simple infinitive is the dominant pattern when it comes to the government properties of _brauchen_. It goes without saying that the difference in proportion between the two infinitival forms is highly significant ($$\chi^2$$ = 15.76, df = 1, p < .00001).
+As indicated by Table 3, the simple infinitive is the dominant pattern when it comes to the government properties of _brauchen_. It goes without saying that the difference in proportion between the two infinitival forms is highly significant ($\chi^2$ = 15.76, df = 1, p < .00001).
 
 |                              | Total       |
 |------------------------------|-------------|             

@@ -1,3 +1,5 @@
+# Modal properties of _brauchen_: An analysis of the Zwirner data
+
 ### 1. Background
 
 A well-known example for morphological class-convergence is the verb _brauchen_ ‘need’ that is becoming integrated into the paradigm of modals, i.e. preterite-present verbs (see Lenz 1997; Reis 2005 and Maché 2019: 176–220 for a detailed discussion). As with the other verbs of this class,[^1] it can govern a simple infinitive instead of the _zu_-infinitive (1). It also shows a morphologically-triggered loss of the _-t_-affix in the 3SG that seems to be missing with phonotactically similar verbs, as the contrast between (2a) and (2b) demonstrates. 

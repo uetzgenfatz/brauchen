@@ -1,9 +1,5 @@
 # Modal properties of _brauchen:_ An analysis of the Zwirner data
 
-$$ E = mc^2 $$
-
-
-
 **Credits:** I want to thank my student assistant Tanja Milosevic for helping me annotate the data. 
 
 ### 1. Background
@@ -46,7 +42,7 @@ Two other noteworthy properties of _brauchen_ that show its affinity to the moda
 (4b) Das brauchst du mir doch *(nicht) zu sagen!  
 ‘There is no need for you in telling me this.’  
 
-In terms of areal diffusion, there is an astonishing complementarity between _t_-loss and presence/absence of _zu_: As the respective maps of the _Atlas zur deutschen Alltagssprache_ (AdA) and the _Atlas zur Aussprache des deutschen Gebrauchsstandards_ (AADG) show, _zu_-less infinitives predominantly occur in the southern parts of the German-speaking areas whereas _t_-less forms are a characteristic of central and northern varieties.[^3] Such areal patterns are characteristic of linguistic innovations and have been referred to as “layering” in the literature on grammaticalization phenomena (Hopper 1991). An interesting apparent-time study on the development of _brauchen_ on a smaller scale is Girnth (2000), who focuses on West Central German dialects. 
+In terms of areal diffusion, there is an astonishing complementarity between _t_-loss and presence/absence of _zu_: As the respective maps of the _Atlas zur deutschen Alltagssprache_ (AdA) and the _Atlas zur Aussprache des deutschen Gebrauchsstandards_ (AADG) show, _zu_-less infinitives predominantly occur in the southern parts of the German-speaking areas whereas _t_-less forms are a characteristic of central and northern varieties.[^3] Such areal patterns are characteristic of linguistic innovations and have been referred to as ‘layering’ in the literature on grammaticalization phenomena (Hopper 1991). An interesting apparent-time study on the development of _brauchen_ on a smaller scale is Girnth (2000), who focuses on West Central German dialects. 
 
 [^3]: See AdA, Map 7/f06a ([https://www.atlas-alltagssprache.de/runde-7/f06a/](https://www.atlas-alltagssprache.de/runde-7/f06a/)) and AADG, /t/-elision with _braucht_ (3SG) ([http://prowiki.ids-mannheim.de/bin/view/AADG/BrauchtTSspr](http://prowiki.ids-mannheim.de/bin/view/AADG/BrauchtTSspr)) (last accessed on 16 June 2022).
 
@@ -74,7 +70,7 @@ As indicated by Table 3, the simple infinitive is the dominant pattern when it c
 |------------------------------|-------------|             
 | _zu_-infinitive              | 404 (43.5%) |
 | simple infinitive            | 525 (56.5%) | 
-| Total             			 | **929**     |
+| Total             	       | **929**     |
 > Table 3: Proportions of _zu_ vs. simple infinitives governed by _brauchen_
 
 Turning to the areal profile of these variant (Map 1), _zu_-less infinitives governed by _brauchen_ are very prominent in Upper German. In the central German dialects, _zu_-marked infinitives predominante by contrast. In Low German, both variants occur side by side with no clear preference pattern. This picture corresponds to the empirical situation documented by the AdA, which is targeted at regional/colloquial varieties instead of base dialects. Importantly, in the northern dialects of our sample, _zu_ is much more prevalent than in the AdA-data.
@@ -82,16 +78,16 @@ Turning to the areal profile of these variant (Map 1), _zu_-less infinitives gov
 ![](brauchen_Infinitivrektion.png)
 > Map 1: Forms of the infinitive governed by _brauchen_ in German dialects
 
-Let us now have a look at the morphological characteristics of the 3SG. Our sample contained 362 relevant examples; the proportions of the two allomorphs vs. modal and full verb uses are given in Table 4. In its modal uses (i.e. governing an infinitival complement) _t_-less forms are attested at a moderatly higher rate (~ 8%) than the ones exhibiting final _-t_. Full verb uses, by comparison, show a significantly larger rate of _t-_-forms, almost three times. It is obvious that difference in proportions of these allomorphs depending on verb use is highly significant (z = 3.7292, p < 0.0001); the expected probabilities ($\hat{p}$) are 0.3628 for $$\varnothing$$-forms and 0.1406 for _t-_forms.[^7] The areal profile of both allomorphs is depicted in map 2 and 3.
+Let us now have a look at the morphological characteristics of the 3SG. Our sample contained 362 relevant examples; the proportions of the two allomorphs vs. modal and full verb uses are given in Table 4. In its modal uses (i.e. governing an infinitival complement) _t_-less forms are attested at a moderatly higher rate (~ 8%) than the ones exhibiting final _-t_. Full verb uses, by comparison, show a significantly larger rate of _t-_-forms, almost three times. It is obvious that difference in proportions of these allomorphs depending on verb use is highly significant $(z = 3.7292, p < 0.0001)$; the expected probabilities $(\hat{p})$ are $0.3628$ for $\varnothing$-forms and $0.1406$ for _t-_forms.[^7] The areal profile of both allomorphs is depicted in map 2 and 3.
 
 |                 | Modal use  | Full verb use | Total  |
 |-----------------|------------|---------------|--------|                
 | _-t_            | 35 (46.1%) | 214 (74.8%)   | 249    |
 | $$\varnothing$$ | 41 (53.9%) | 72 (25.2%)    | 113    |
-| Total           | 76			 | 286           | **362**|
+| Total           | 76	       | 286           | **362**|
 > Table 4: Proportions of the two allomorphs of the 3SG
 
-[^7]: We used a one-sided hypothesis test, with the alternative hypothesis ($$H_1$$): proportion $$\varnothing$$-morph > proportion _t-_morph.
+[^7]: We used a one-sided hypothesis test, with the alternative hypothesis ($H_1$): proportion $\varnothing$-morph > proportion _t-_morph.
 
 In diatopic terms, there seems to be no discernible areal skewing between allmorph type and full verb vs. modal uses of _brauchen_, i.e. there is no layering effect regarding the class convergence of this verb towards the modals (see Maps 2a and 2b). Conflating polysemy (full verb vs. modal) and focusing on the allmorphs alone, we can observe that _t_-forms predominate in the Upper German dialects. However, this difference is not as pronounced as in the AADG-map mentioned in Section 1. We believe that this contrast is at least partially caused by our empirical source. Whereas the AADG is based on elicitation data, the Zwirner corpus comprises continuous speech, making it hard to control for factors like coarticulation or other phonetic/phonological factors applying in this modality.
 

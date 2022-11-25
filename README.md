@@ -57,7 +57,7 @@ We extracted all relevant examples for _brauchen_ in both configurations, yieldi
 | Phenomenon              | Sample size | Relevant examples |                     
 |-------------------------|-------------|-------------------|
 | form of the infinitive  | 2927        | 929               |
-| 3SG                     | 914         | 362
+| 3SG                     | 914         | 362               |
 > Table 2: Sample sizes
 
 [^5]: We used the queries _brauchen_ (lemma) and _braucht_ (transcribed), respectively. Both samples can be accessed via the following IDs: aeo0my (infinitive); O4grsv (3SG).

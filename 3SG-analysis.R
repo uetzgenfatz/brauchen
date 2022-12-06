@@ -1,5 +1,5 @@
 ## ---------------------------------------------
-## Analysis of the Zwriner 3SG sample 
+## Analysis of the Zwirner 3SG sample 
 ## Author: Oliver Schallert
 ## Date Created: 2022-11-25
 ## ---------------------------------------------

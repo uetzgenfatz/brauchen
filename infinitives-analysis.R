@@ -1,5 +1,5 @@
 ## ---------------------------------------------
-## Analysis of the Zwriner infinitive sample 
+## Analysis of the Zwirner infinitive sample 
 ## Author: Oliver Schallert
 ## Date Created: 2022-11-25
 ## ---------------------------------------------
